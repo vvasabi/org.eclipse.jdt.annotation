@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.annotation;version="1.0.0.v20120
+ 522-1651";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: bundle
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.jdt.annotation.source
+Bundle-Version: 1.0.0.v20120522-1651
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/annotation/NonNullByDefault.java
+SHA1-Digest: uCsrOqM6tRTA/y8Y/OssLiskrgY=
+
+Name: org/eclipse/jdt/annotation/package-info.java
+SHA1-Digest: XLqOtVSdERDx45vLxkiD+Jivxok=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/annotation/NonNull.java
+SHA1-Digest: owiV4AknFip9959SZF0YjeYcTj0=
+
+Name: org/eclipse/jdt/annotation/Nullable.java
+SHA1-Digest: goMUoFI/5ky3pB843PReIx9Q0GY=
+
+Name: about.html
+SHA1-Digest: sAXgWZYB7tT9O9w6pl6VraWFVhk=
+
+Name: bundle.properties
+SHA1-Digest: O1jJHo5fBdbbcRnxWFu8nbhGnOw=
+
